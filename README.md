@@ -1,6 +1,10 @@
 # Awesome
 A minimal awesome list
 
+## API
+
+- https://github.com/lord/slate
+
 ## Haskell
 
 ### Books
