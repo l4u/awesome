@@ -5,7 +5,6 @@ A minimal awesome list
 
 - https://github.com/DenisKolodin/yew
 - https://reasonml.github.io
-- http://elm-lang.org
 
 ## API
 
