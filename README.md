@@ -21,7 +21,8 @@ A minimal awesome list
 
 - https://github.com/DenisKolodin/yew
 - https://rocket.rs
-- https://github.com/actix/actix-web
+- https://actix.rs
+- https://github.com/graphql-rust/juniper
 
 ## Haskell
 
