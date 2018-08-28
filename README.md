@@ -17,6 +17,12 @@ A minimal awesome list
 - [TRPL](https://doc.rust-lang.org/book/2018-edition/index.html) - read first
 - [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - reference
 
+### Libs
+
+- https://github.com/DenisKolodin/yew
+- https://rocket.rs
+- https://github.com/actix/actix-web
+
 ## Haskell
 
 ### Books
