@@ -32,6 +32,10 @@ A minimal awesome list
 - [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 - [Haskell Programming from First Principles](http://haskellbook.com)
 
+### Libs
+
+- https://haskell-servant.github.io
+
 ## License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
