@@ -10,6 +10,13 @@ A minimal awesome list
 
 - https://github.com/lord/slate
 
+## Rust
+
+### Books
+
+- [TRPL](https://doc.rust-lang.org/book/2018-edition/index.html) - read first
+- [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - reference
+
 ## Haskell
 
 ### Books
