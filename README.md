@@ -9,6 +9,7 @@ A minimal awesome list
 ## API
 
 - https://github.com/lord/slate
+- https://github.com/grpc/grpc-web
 
 ## Rust
 
