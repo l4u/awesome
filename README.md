@@ -6,6 +6,7 @@ A minimal awesome list
 - https://github.com/DenisKolodin/yew
 - https://reasonml.github.io
 - https://github.com/Jeffail/benthos with kafka
+- http://pachyderm.io
 
 ## API
 
