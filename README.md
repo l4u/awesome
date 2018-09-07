@@ -44,6 +44,7 @@ A minimal awesome list
 
 - [Ramda](https://github.com/ramda/ramda) - replacement for underscore and lodash
 - [bat](https://github.com/sharkdp/bat) - replacement for cat
+
 ## License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
