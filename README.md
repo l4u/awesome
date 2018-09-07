@@ -40,6 +40,10 @@ A minimal awesome list
 
 - https://haskell-servant.github.io
 
+## Others
+
+- [Ramda](https://github.com/ramda/ramda) - replacement for underscore and lodash
+
 ## License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
