@@ -34,6 +34,12 @@ A minimal awesome list
 
 - https://haskell-servant.github.io
 
+## Expertise and Expert Performance
+
+- The Cambridge Handbook of Expertise and Expert Performance
+- The Science of Expertise
+- Peak: Secrets from the New Science of Expertise
+
 ## Others
 
 - [Ramda](https://github.com/ramda/ramda) - replacement for underscore and lodash
