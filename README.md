@@ -1,13 +1,6 @@
 # Awesome
 A minimal awesome list
 
-## Exploring
-
-- https://github.com/DenisKolodin/yew
-- https://reasonml.github.io
-- https://github.com/Jeffail/benthos with kafka
-- http://pachyderm.io
-
 ## API
 
 - https://github.com/lord/slate
