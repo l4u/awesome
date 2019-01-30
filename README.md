@@ -6,6 +6,7 @@ A minimal awesome list
 - https://github.com/lord/slate
 - https://github.com/grpc/grpc-web
 - https://github.com/ribice/twisk
+- https://github.com/ribice/gorsk
 
 ## Rust
 
